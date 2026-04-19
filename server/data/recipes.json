@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "name": "Palak Paneer",
+    "mealType": "dinner",
+    "ingredients": ["spinach", "paneer", "onion", "tomato", "garlic", "ginger", "cream", "spices"],
+    "steps": [
+      "Blanch spinach and blend into a smooth puree.",
+      "Saute onions, garlic and ginger until golden.",
+      "Add tomatoes and spices; cook until oil separates.",
+      "Stir in spinach puree and simmer for 5 minutes.",
+      "Add paneer cubes and cream; cook 3 more minutes."
+    ],
+    "image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+    "time": "30 mins",
+    "servings": 4,
+    "description": "Creamy Indian curry made with fresh spinach and soft paneer cheese."
+  },
+  {
+    "id": 2,
+    "name": "Avocado Toast",
+    "mealType": "breakfast",
+    "ingredients": ["avocado", "sourdough bread", "lemon", "red pepper flakes", "salt", "olive oil"],
+    "steps": [
+      "Toast sourdough slices until golden.",
+      "Mash avocado with lemon juice and salt.",
+      "Spread avocado mixture on toast.",
+      "Drizzle with olive oil and sprinkle red pepper flakes."
+    ],
+    "image": "https://images.pexels.com/photos/1656685/pexels-photo-1656685.jpeg?auto=compress&cs=tinysrgb&w=400&h=300",
+    "time": "10 mins",
+    "servings": 2,
+    "description": "Simple, nutritious breakfast with creamy avocado on crispy sourdough."
+  },
+  {
+    "id": 3,
+    "name": "Caprese Salad",
+    "mealType": "lunch",
+    "ingredients": ["mozzarella", "tomato", "fresh basil", "olive oil", "balsamic vinegar", "salt", "pepper"],
+    "steps": [
+      "Slice mozzarella and tomatoes into rounds.",
+      "Arrange alternating slices on a plate.",
+      "Tuck basil leaves between slices.",
+      "Drizzle with olive oil and balsamic vinegar.",
+      "Season with salt and pepper."
+    ],
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=400&h=300&fit=crop",
+    "time": "10 mins",
+    "servings": 2,
+    "description": "Classic Italian salad with fresh mozzarella, tomatoes and basil."
+  },
+  {
+    "id": 4,
+    "name": "Vegetable Stir-Fry",
+    "mealType": "dinner",
+    "ingredients": ["broccoli", "bell pepper", "carrot", "snap peas", "garlic", "soy sauce", "sesame oil", "ginger"],
+    "steps": [
+      "Heat sesame oil in a wok over high heat.",
+      "Add garlic and ginger; stir for 30 seconds.",
+      "Add hard vegetables (carrot, broccoli) first; stir-fry 3 minutes.",
+      "Add bell pepper and snap peas; cook 2 more minutes.",
+      "Pour soy sauce and toss to coat."
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop",
+    "time": "20 mins",
+    "servings": 3,
+    "description": "Quick and healthy stir-fry loaded with colorful fresh vegetables."
+  },
+  {
+    "id": 5,
+    "name": "Banana Oat Pancakes",
+    "mealType": "breakfast",
+    "ingredients": ["banana", "oats", "egg", "milk", "baking powder", "vanilla extract", "honey"],
+    "steps": [
+      "Blend oats into flour.",
+      "Mash banana and mix with egg, milk and vanilla.",
+      "Combine with oat flour and baking powder.",
+      "Cook on a non-stick pan over medium heat until bubbles form; flip.",
+      "Drizzle with honey to serve."
+    ],
+    "image": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+    "time": "20 mins",
+    "servings": 2,
+    "description": "Fluffy, naturally sweet pancakes made with banana and rolled oats."
+  },
+  {
+    "id": 6,
+    "name": "Hummus & Veggie Wrap",
+    "mealType": "lunch",
+    "ingredients": ["tortilla", "hummus", "cucumber", "bell pepper", "carrot", "spinach", "lemon juice"],
+    "steps": [
+      "Spread hummus generously over the tortilla.",
+      "Layer spinach leaves on top.",
+      "Add sliced cucumber, bell pepper and carrot strips.",
+      "Squeeze lemon juice over vegetables.",
+      "Roll tightly and slice in half."
+    ],
+    "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=400&h=300&fit=crop",
+    "time": "10 mins",
+    "servings": 1,
+    "description": "Fresh and filling wrap packed with crunchy vegetables and creamy hummus."
+  },
+  {
+    "id": 7,
+    "name": "Tomato Basil Soup",
+    "mealType": "dinner",
+    "ingredients": ["tomato", "onion", "garlic", "vegetable broth", "fresh basil", "cream", "olive oil", "sugar"],
+    "steps": [
+      "Roast tomatoes and garlic in oven at 200°C for 25 minutes.",
+      "Saute onion in olive oil until soft.",
+      "Add roasted tomatoes and broth; simmer 10 minutes.",
+      "Blend until smooth.",
+      "Stir in cream and fresh basil; season to taste."
+    ],
+    "image": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
+    "time": "45 mins",
+    "servings": 4,
+    "description": "Velvety roasted tomato soup with fresh basil and a swirl of cream."
+  },
+  {
+    "id": 8,
+    "name": "Greek Yogurt Parfait",
+    "mealType": "breakfast",
+    "ingredients": ["greek yogurt", "granola", "strawberry", "blueberry", "honey", "chia seeds"],
+    "steps": [
+      "Spoon greek yogurt into a glass.",
+      "Layer granola on top.",
+      "Add mixed berries.",
+      "Drizzle honey and sprinkle chia seeds.",
+      "Repeat layers if desired."
+    ],
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop",
+    "time": "5 mins",
+    "servings": 1,
+    "description": "Protein-rich parfait layered with granola, fresh berries and honey."
+  },
+  {
+    "id": 9,
+    "name": "Chickpea Tacos",
+    "mealType": "lunch",
+    "ingredients": ["chickpea", "taco shells", "cumin", "paprika", "avocado", "red cabbage", "lime", "cilantro"],
+    "steps": [
+      "Season chickpeas with cumin, paprika, salt and pepper.",
+      "Roast at 200°C for 20 minutes until crispy.",
+      "Warm taco shells.",
+      "Fill with chickpeas, shredded cabbage and avocado slices.",
+      "Top with cilantro and a squeeze of lime."
+    ],
+    "image": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=400&h=300&fit=crop",
+    "time": "30 mins",
+    "servings": 2,
+    "description": "Crispy roasted chickpea tacos with fresh toppings and lime."
+  },
+  {
+    "id": 10,
+    "name": "Mushroom Risotto",
+    "mealType": "dinner",
+    "ingredients": ["arborio rice", "mushroom", "onion", "garlic", "vegetable broth", "parmesan", "white wine", "butter"],
+    "steps": [
+      "Saute onion and garlic in butter until soft.",
+      "Add mushrooms; cook until golden.",
+      "Add arborio rice and toast for 1 minute.",
+      "Pour in wine; stir until absorbed.",
+      "Add warm broth ladle by ladle, stirring constantly.",
+      "Finish with parmesan and butter."
+    ],
+    "image": "https://www.themealdb.com/images/media/meals/ssyqwr1511451678.jpg",
+    "time": "40 mins",
+    "servings": 3,
+    "description": "Creamy Italian risotto with earthy mushrooms and aged parmesan."
+  },
+  {
+    "id": 11,
+    "name": "Bruschetta",
+    "mealType": "snack",
+    "ingredients": ["baguette", "tomato", "garlic", "fresh basil", "olive oil", "balsamic vinegar", "salt"],
+    "steps": [
+      "Slice baguette and toast under broiler.",
+      "Rub each slice with a garlic clove.",
+      "Dice tomatoes and mix with basil, olive oil and balsamic.",
+      "Season with salt and pile onto toast."
+    ],
+    "image": "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?w=400&h=300&fit=crop",
+    "time": "15 mins",
+    "servings": 4,
+    "description": "Classic Italian appetizer with fresh tomatoes and basil on toasted bread."
+  },
+  {
+    "id": 12,
+    "name": "Smoothie Bowl",
+    "mealType": "breakfast",
+    "ingredients": ["frozen banana", "frozen mango", "spinach", "almond milk", "granola", "kiwi", "coconut flakes"],
+    "steps": [
+      "Blend frozen banana, mango and spinach with almond milk until thick.",
+      "Pour into a bowl.",
+      "Top with granola, sliced kiwi and coconut flakes."
+    ],
+    "image": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?w=400&h=300&fit=crop",
+    "time": "10 mins",
+    "servings": 1,
+    "description": "Thick and vibrant smoothie bowl topped with fresh fruit and granola."
+  },
+  {
+    "id": 13,
+    "name": "Lentil Soup",
+    "mealType": "lunch",
+    "ingredients": ["red lentils", "onion", "carrot", "garlic", "cumin", "turmeric", "vegetable broth", "lemon"],
+    "steps": [
+      "Saute onion, garlic and carrot in olive oil.",
+      "Add cumin and turmeric; stir 1 minute.",
+      "Add lentils and broth; bring to a boil.",
+      "Simmer 20 minutes until lentils are soft.",
+      "Blend partially and finish with lemon juice."
+    ],
+    "image": "https://www.themealdb.com/images/media/meals/vpxyqt1511464175.jpg",
+    "time": "35 mins",
+    "servings": 4,
+    "description": "Hearty and warming red lentil soup spiced with cumin and turmeric."
+  },
+  {
+    "id": 14,
+    "name": "Guacamole & Chips",
+    "mealType": "snack",
+    "ingredients": ["avocado", "lime", "red onion", "jalapeño", "cilantro", "tomato", "salt", "tortilla chips"],
+    "steps": [
+      "Mash avocados in a bowl.",
+      "Mix in lime juice, diced red onion, jalapeño and cilantro.",
+      "Fold in diced tomato.",
+      "Season with salt.",
+      "Serve with tortilla chips."
+    ],
+    "image": "https://www.themealdb.com/images/media/meals/flrajf1762341295.jpg",
+    "time": "10 mins",
+    "servings": 4,
+    "description": "Fresh homemade guacamole with just the right amount of lime and heat."
+  },
+  {
+    "id": 15,
+    "name": "Margherita Pizza",
+    "mealType": "dinner",
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella", "fresh basil", "olive oil", "salt"],
+    "steps": [
+      "Preheat oven to 250°C with a pizza stone.",
+      "Stretch dough into a round.",
+      "Spread tomato sauce evenly.",
+      "Top with torn mozzarella.",
+      "Bake 10-12 minutes until crust is golden.",
+      "Finish with fresh basil and a drizzle of olive oil."
+    ],
+    "image": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg",
+    "time": "25 mins",
+    "servings": 2,
+    "description": "Classic Neapolitan pizza with tomato sauce, fresh mozzarella and basil."
+  }
+]
