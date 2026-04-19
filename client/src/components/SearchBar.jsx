@@ -3,7 +3,7 @@ export default function SearchBar({ value, onChange }) {
     <div className="search-bar">
       <input
         type="text"
-        placeholder="Search by ingredient (e.g. spinach, avocado...)"
+        placeholder="Search by name, ingredient or keyword..."
         value={value}
         onChange={e => onChange(e.target.value)}
       />

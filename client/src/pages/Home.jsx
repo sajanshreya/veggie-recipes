@@ -19,8 +19,11 @@ export default function Home() {
 
   const filtered = recipes.filter(r => {
     const matchesMeal = mealFilter === 'all' || r.mealType === mealFilter;
-    const matchesSearch = search.trim() === '' ||
-      r.ingredients.some(ing => ing.toLowerCase().includes(search.toLowerCase().trim()));
+    const q = search.toLowerCase().trim();
+    const matchesSearch = q === '' ||
+      r.name.toLowerCase().includes(q) ||
+      r.description.toLowerCase().includes(q) ||
+      r.ingredients.some(ing => ing.toLowerCase().includes(q));
     return matchesMeal && matchesSearch;
   });
 
